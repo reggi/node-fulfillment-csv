@@ -1,0 +1,5 @@
+.env
+node_modules
+sheet.csv
+schema.md
+snippets.js
